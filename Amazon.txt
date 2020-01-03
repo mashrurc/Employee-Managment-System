@@ -1,0 +1,8 @@
+FULL-TIME 137832 Jeff Bezos Male Pittsburgh 7.0 650000
+PART-TIME 274837 Emilia Clarke Female Holland 5.0 22.0 22.0 22.0
+PART-TIME 349839 Sarah Nylander Female Toronto 5.0 89.0 28.0 25.0
+FULL-TIME 582989 Jeffrey Aberg Male Raleigh 10.0 25.0 25 25
+FULL-TIME 637282 Sundar Pichai Male Mississauga 15.0 120000
+FULL-TIME 738272 Michelle Jones Female Hamilton 15.0 80000
+PART-TIME 832827 Pam Timmins Female Tampa 10.0 35.0 55.0 51.0
+FULL-TIME 937828 Mashrur Chowdhury Male Toronto 15.0 55000

@@ -1,0 +1,3 @@
+Google:google
+Amazon:amazon
+Microsoft:microsoft
